@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "ucd-full": "^14.0.1"
+  },
+  "dependencies": {
+    "file-url": "^4.0.0",
+    "puppeteer": "^11.0.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "generate-invisible-characters": "ts-node ./invisible-character-generator/script.ts",
+    "generate-data": "ts-node ./index.ts"
+  }
+}

@@ -1,0 +1,1874 @@
+[
+  {
+    "codePoint": 9,
+    "width": 7.5
+  },
+  {
+    "codePoint": 10,
+    "width": 7.5
+  },
+  {
+    "codePoint": 11,
+    "width": 7.5
+  },
+  {
+    "codePoint": 12,
+    "width": 7.5
+  },
+  {
+    "codePoint": 13,
+    "width": 7.5
+  },
+  {
+    "codePoint": 32,
+    "width": 7.5
+  },
+  {
+    "codePoint": 127,
+    "width": 15
+  },
+  {
+    "codePoint": 160,
+    "width": 7.5
+  },
+  {
+    "codePoint": 173,
+    "width": 0
+  },
+  {
+    "codePoint": 847,
+    "width": 0
+  },
+  {
+    "codePoint": 1564,
+    "width": 0
+  },
+  {
+    "codePoint": 4447,
+    "width": 30
+  },
+  {
+    "codePoint": 4448,
+    "width": 30
+  },
+  {
+    "codePoint": 6068,
+    "width": 0
+  },
+  {
+    "codePoint": 6069,
+    "width": 0
+  },
+  {
+    "codePoint": 6155,
+    "width": 0
+  },
+  {
+    "codePoint": 6156,
+    "width": 0
+  },
+  {
+    "codePoint": 6157,
+    "width": 0
+  },
+  {
+    "codePoint": 6158,
+    "width": 0
+  },
+  {
+    "codePoint": 7355,
+    "width": 13.4033203125
+  },
+  {
+    "codePoint": 7356,
+    "width": 15.8349609375
+  },
+  {
+    "codePoint": 8192,
+    "width": 15
+  },
+  {
+    "codePoint": 8193,
+    "width": 30
+  },
+  {
+    "codePoint": 8194,
+    "width": 15
+  },
+  {
+    "codePoint": 8195,
+    "width": 30
+  },
+  {
+    "codePoint": 8196,
+    "width": 10.0048828125
+  },
+  {
+    "codePoint": 8197,
+    "width": 7.5
+  },
+  {
+    "codePoint": 8198,
+    "width": 4.9951171875
+  },
+  {
+    "codePoint": 8199,
+    "width": 15
+  },
+  {
+    "codePoint": 8200,
+    "width": 7.5
+  },
+  {
+    "codePoint": 8201,
+    "width": 6.005859375
+  },
+  {
+    "codePoint": 8202,
+    "width": 2.5048828125
+  },
+  {
+    "codePoint": 8203,
+    "width": 0
+  },
+  {
+    "codePoint": 8204,
+    "width": 0
+  },
+  {
+    "codePoint": 8205,
+    "width": 0
+  },
+  {
+    "codePoint": 8206,
+    "width": 0
+  },
+  {
+    "codePoint": 8207,
+    "width": 0
+  },
+  {
+    "codePoint": 8234,
+    "width": 0
+  },
+  {
+    "codePoint": 8235,
+    "width": 0
+  },
+  {
+    "codePoint": 8236,
+    "width": 0
+  },
+  {
+    "codePoint": 8237,
+    "width": 0
+  },
+  {
+    "codePoint": 8238,
+    "width": 0
+  },
+  {
+    "codePoint": 8239,
+    "width": 6.005859375
+  },
+  {
+    "codePoint": 8287,
+    "width": 6.6650390625
+  },
+  {
+    "codePoint": 8288,
+    "width": 0
+  },
+  {
+    "codePoint": 8289,
+    "width": 0
+  },
+  {
+    "codePoint": 8290,
+    "width": 0
+  },
+  {
+    "codePoint": 8291,
+    "width": 0
+  },
+  {
+    "codePoint": 8292,
+    "width": 0
+  },
+  {
+    "codePoint": 8293,
+    "width": 0
+  },
+  {
+    "codePoint": 8294,
+    "width": 0
+  },
+  {
+    "codePoint": 8295,
+    "width": 0
+  },
+  {
+    "codePoint": 8296,
+    "width": 0
+  },
+  {
+    "codePoint": 8297,
+    "width": 0
+  },
+  {
+    "codePoint": 8298,
+    "width": 0
+  },
+  {
+    "codePoint": 8299,
+    "width": 0
+  },
+  {
+    "codePoint": 8300,
+    "width": 0
+  },
+  {
+    "codePoint": 8301,
+    "width": 0
+  },
+  {
+    "codePoint": 8302,
+    "width": 0
+  },
+  {
+    "codePoint": 8303,
+    "width": 0
+  },
+  {
+    "codePoint": 10240,
+    "width": 19.5263671875
+  },
+  {
+    "codePoint": 12288,
+    "width": 30
+  },
+  {
+    "codePoint": 12644,
+    "width": 30
+  },
+  {
+    "codePoint": 65024,
+    "width": 0
+  },
+  {
+    "codePoint": 65025,
+    "width": 0
+  },
+  {
+    "codePoint": 65026,
+    "width": 0
+  },
+  {
+    "codePoint": 65027,
+    "width": 0
+  },
+  {
+    "codePoint": 65028,
+    "width": 0
+  },
+  {
+    "codePoint": 65029,
+    "width": 0
+  },
+  {
+    "codePoint": 65030,
+    "width": 0
+  },
+  {
+    "codePoint": 65031,
+    "width": 0
+  },
+  {
+    "codePoint": 65032,
+    "width": 0
+  },
+  {
+    "codePoint": 65033,
+    "width": 0
+  },
+  {
+    "codePoint": 65034,
+    "width": 0
+  },
+  {
+    "codePoint": 65035,
+    "width": 0
+  },
+  {
+    "codePoint": 65036,
+    "width": 0
+  },
+  {
+    "codePoint": 65037,
+    "width": 0
+  },
+  {
+    "codePoint": 65038,
+    "width": 0
+  },
+  {
+    "codePoint": 65039,
+    "width": 0
+  },
+  {
+    "codePoint": 65279,
+    "width": 0
+  },
+  {
+    "codePoint": 65440,
+    "width": 15
+  },
+  {
+    "codePoint": 65520,
+    "width": 0
+  },
+  {
+    "codePoint": 65521,
+    "width": 0
+  },
+  {
+    "codePoint": 65522,
+    "width": 0
+  },
+  {
+    "codePoint": 65523,
+    "width": 0
+  },
+  {
+    "codePoint": 65524,
+    "width": 0
+  },
+  {
+    "codePoint": 65525,
+    "width": 0
+  },
+  {
+    "codePoint": 65526,
+    "width": 0
+  },
+  {
+    "codePoint": 65527,
+    "width": 0
+  },
+  {
+    "codePoint": 65528,
+    "width": 0
+  },
+  {
+    "codePoint": 65532,
+    "width": 0
+  },
+  {
+    "codePoint": 78844,
+    "width": 11.6748046875
+  },
+  {
+    "codePoint": 119155,
+    "width": 0
+  },
+  {
+    "codePoint": 119156,
+    "width": 0
+  },
+  {
+    "codePoint": 119157,
+    "width": 0
+  },
+  {
+    "codePoint": 119158,
+    "width": 0
+  },
+  {
+    "codePoint": 119159,
+    "width": 0
+  },
+  {
+    "codePoint": 119160,
+    "width": 0
+  },
+  {
+    "codePoint": 119161,
+    "width": 0
+  },
+  {
+    "codePoint": 119162,
+    "width": 0
+  },
+  {
+    "codePoint": 917504,
+    "width": 0
+  },
+  {
+    "codePoint": 917505,
+    "width": 0
+  },
+  {
+    "codePoint": 917506,
+    "width": 0
+  },
+  {
+    "codePoint": 917507,
+    "width": 0
+  },
+  {
+    "codePoint": 917508,
+    "width": 0
+  },
+  {
+    "codePoint": 917509,
+    "width": 0
+  },
+  {
+    "codePoint": 917510,
+    "width": 0
+  },
+  {
+    "codePoint": 917511,
+    "width": 0
+  },
+  {
+    "codePoint": 917512,
+    "width": 0
+  },
+  {
+    "codePoint": 917513,
+    "width": 0
+  },
+  {
+    "codePoint": 917514,
+    "width": 0
+  },
+  {
+    "codePoint": 917515,
+    "width": 0
+  },
+  {
+    "codePoint": 917516,
+    "width": 0
+  },
+  {
+    "codePoint": 917517,
+    "width": 0
+  },
+  {
+    "codePoint": 917518,
+    "width": 0
+  },
+  {
+    "codePoint": 917519,
+    "width": 0
+  },
+  {
+    "codePoint": 917520,
+    "width": 0
+  },
+  {
+    "codePoint": 917521,
+    "width": 0
+  },
+  {
+    "codePoint": 917522,
+    "width": 0
+  },
+  {
+    "codePoint": 917523,
+    "width": 0
+  },
+  {
+    "codePoint": 917524,
+    "width": 0
+  },
+  {
+    "codePoint": 917525,
+    "width": 0
+  },
+  {
+    "codePoint": 917526,
+    "width": 0
+  },
+  {
+    "codePoint": 917527,
+    "width": 0
+  },
+  {
+    "codePoint": 917528,
+    "width": 0
+  },
+  {
+    "codePoint": 917529,
+    "width": 0
+  },
+  {
+    "codePoint": 917530,
+    "width": 0
+  },
+  {
+    "codePoint": 917531,
+    "width": 0
+  },
+  {
+    "codePoint": 917532,
+    "width": 0
+  },
+  {
+    "codePoint": 917533,
+    "width": 0
+  },
+  {
+    "codePoint": 917534,
+    "width": 0
+  },
+  {
+    "codePoint": 917535,
+    "width": 0
+  },
+  {
+    "codePoint": 917536,
+    "width": 0
+  },
+  {
+    "codePoint": 917537,
+    "width": 0
+  },
+  {
+    "codePoint": 917538,
+    "width": 0
+  },
+  {
+    "codePoint": 917539,
+    "width": 0
+  },
+  {
+    "codePoint": 917540,
+    "width": 0
+  },
+  {
+    "codePoint": 917541,
+    "width": 0
+  },
+  {
+    "codePoint": 917542,
+    "width": 0
+  },
+  {
+    "codePoint": 917543,
+    "width": 0
+  },
+  {
+    "codePoint": 917544,
+    "width": 0
+  },
+  {
+    "codePoint": 917545,
+    "width": 0
+  },
+  {
+    "codePoint": 917546,
+    "width": 0
+  },
+  {
+    "codePoint": 917547,
+    "width": 0
+  },
+  {
+    "codePoint": 917548,
+    "width": 0
+  },
+  {
+    "codePoint": 917549,
+    "width": 0
+  },
+  {
+    "codePoint": 917550,
+    "width": 0
+  },
+  {
+    "codePoint": 917551,
+    "width": 0
+  },
+  {
+    "codePoint": 917552,
+    "width": 0
+  },
+  {
+    "codePoint": 917553,
+    "width": 0
+  },
+  {
+    "codePoint": 917554,
+    "width": 0
+  },
+  {
+    "codePoint": 917555,
+    "width": 0
+  },
+  {
+    "codePoint": 917556,
+    "width": 0
+  },
+  {
+    "codePoint": 917557,
+    "width": 0
+  },
+  {
+    "codePoint": 917558,
+    "width": 0
+  },
+  {
+    "codePoint": 917559,
+    "width": 0
+  },
+  {
+    "codePoint": 917560,
+    "width": 0
+  },
+  {
+    "codePoint": 917561,
+    "width": 0
+  },
+  {
+    "codePoint": 917562,
+    "width": 0
+  },
+  {
+    "codePoint": 917563,
+    "width": 0
+  },
+  {
+    "codePoint": 917564,
+    "width": 0
+  },
+  {
+    "codePoint": 917565,
+    "width": 0
+  },
+  {
+    "codePoint": 917566,
+    "width": 0
+  },
+  {
+    "codePoint": 917567,
+    "width": 0
+  },
+  {
+    "codePoint": 917568,
+    "width": 0
+  },
+  {
+    "codePoint": 917569,
+    "width": 0
+  },
+  {
+    "codePoint": 917570,
+    "width": 0
+  },
+  {
+    "codePoint": 917571,
+    "width": 0
+  },
+  {
+    "codePoint": 917572,
+    "width": 0
+  },
+  {
+    "codePoint": 917573,
+    "width": 0
+  },
+  {
+    "codePoint": 917574,
+    "width": 0
+  },
+  {
+    "codePoint": 917575,
+    "width": 0
+  },
+  {
+    "codePoint": 917576,
+    "width": 0
+  },
+  {
+    "codePoint": 917577,
+    "width": 0
+  },
+  {
+    "codePoint": 917578,
+    "width": 0
+  },
+  {
+    "codePoint": 917579,
+    "width": 0
+  },
+  {
+    "codePoint": 917580,
+    "width": 0
+  },
+  {
+    "codePoint": 917581,
+    "width": 0
+  },
+  {
+    "codePoint": 917582,
+    "width": 0
+  },
+  {
+    "codePoint": 917583,
+    "width": 0
+  },
+  {
+    "codePoint": 917584,
+    "width": 0
+  },
+  {
+    "codePoint": 917585,
+    "width": 0
+  },
+  {
+    "codePoint": 917586,
+    "width": 0
+  },
+  {
+    "codePoint": 917587,
+    "width": 0
+  },
+  {
+    "codePoint": 917588,
+    "width": 0
+  },
+  {
+    "codePoint": 917589,
+    "width": 0
+  },
+  {
+    "codePoint": 917590,
+    "width": 0
+  },
+  {
+    "codePoint": 917591,
+    "width": 0
+  },
+  {
+    "codePoint": 917592,
+    "width": 0
+  },
+  {
+    "codePoint": 917593,
+    "width": 0
+  },
+  {
+    "codePoint": 917594,
+    "width": 0
+  },
+  {
+    "codePoint": 917595,
+    "width": 0
+  },
+  {
+    "codePoint": 917596,
+    "width": 0
+  },
+  {
+    "codePoint": 917597,
+    "width": 0
+  },
+  {
+    "codePoint": 917598,
+    "width": 0
+  },
+  {
+    "codePoint": 917599,
+    "width": 0
+  },
+  {
+    "codePoint": 917600,
+    "width": 0
+  },
+  {
+    "codePoint": 917601,
+    "width": 0
+  },
+  {
+    "codePoint": 917602,
+    "width": 0
+  },
+  {
+    "codePoint": 917603,
+    "width": 0
+  },
+  {
+    "codePoint": 917604,
+    "width": 0
+  },
+  {
+    "codePoint": 917605,
+    "width": 0
+  },
+  {
+    "codePoint": 917606,
+    "width": 0
+  },
+  {
+    "codePoint": 917607,
+    "width": 0
+  },
+  {
+    "codePoint": 917608,
+    "width": 0
+  },
+  {
+    "codePoint": 917609,
+    "width": 0
+  },
+  {
+    "codePoint": 917610,
+    "width": 0
+  },
+  {
+    "codePoint": 917611,
+    "width": 0
+  },
+  {
+    "codePoint": 917612,
+    "width": 0
+  },
+  {
+    "codePoint": 917613,
+    "width": 0
+  },
+  {
+    "codePoint": 917614,
+    "width": 0
+  },
+  {
+    "codePoint": 917615,
+    "width": 0
+  },
+  {
+    "codePoint": 917616,
+    "width": 0
+  },
+  {
+    "codePoint": 917617,
+    "width": 0
+  },
+  {
+    "codePoint": 917618,
+    "width": 0
+  },
+  {
+    "codePoint": 917619,
+    "width": 0
+  },
+  {
+    "codePoint": 917620,
+    "width": 0
+  },
+  {
+    "codePoint": 917621,
+    "width": 0
+  },
+  {
+    "codePoint": 917622,
+    "width": 0
+  },
+  {
+    "codePoint": 917623,
+    "width": 0
+  },
+  {
+    "codePoint": 917624,
+    "width": 0
+  },
+  {
+    "codePoint": 917625,
+    "width": 0
+  },
+  {
+    "codePoint": 917626,
+    "width": 0
+  },
+  {
+    "codePoint": 917627,
+    "width": 0
+  },
+  {
+    "codePoint": 917628,
+    "width": 0
+  },
+  {
+    "codePoint": 917629,
+    "width": 0
+  },
+  {
+    "codePoint": 917630,
+    "width": 0
+  },
+  {
+    "codePoint": 917631,
+    "width": 0
+  },
+  {
+    "codePoint": 917760,
+    "width": 0
+  },
+  {
+    "codePoint": 917761,
+    "width": 0
+  },
+  {
+    "codePoint": 917762,
+    "width": 0
+  },
+  {
+    "codePoint": 917763,
+    "width": 0
+  },
+  {
+    "codePoint": 917764,
+    "width": 0
+  },
+  {
+    "codePoint": 917765,
+    "width": 0
+  },
+  {
+    "codePoint": 917766,
+    "width": 0
+  },
+  {
+    "codePoint": 917767,
+    "width": 0
+  },
+  {
+    "codePoint": 917768,
+    "width": 0
+  },
+  {
+    "codePoint": 917769,
+    "width": 0
+  },
+  {
+    "codePoint": 917770,
+    "width": 0
+  },
+  {
+    "codePoint": 917771,
+    "width": 0
+  },
+  {
+    "codePoint": 917772,
+    "width": 0
+  },
+  {
+    "codePoint": 917773,
+    "width": 0
+  },
+  {
+    "codePoint": 917774,
+    "width": 0
+  },
+  {
+    "codePoint": 917775,
+    "width": 0
+  },
+  {
+    "codePoint": 917776,
+    "width": 0
+  },
+  {
+    "codePoint": 917777,
+    "width": 0
+  },
+  {
+    "codePoint": 917778,
+    "width": 0
+  },
+  {
+    "codePoint": 917779,
+    "width": 0
+  },
+  {
+    "codePoint": 917780,
+    "width": 0
+  },
+  {
+    "codePoint": 917781,
+    "width": 0
+  },
+  {
+    "codePoint": 917782,
+    "width": 0
+  },
+  {
+    "codePoint": 917783,
+    "width": 0
+  },
+  {
+    "codePoint": 917784,
+    "width": 0
+  },
+  {
+    "codePoint": 917785,
+    "width": 0
+  },
+  {
+    "codePoint": 917786,
+    "width": 0
+  },
+  {
+    "codePoint": 917787,
+    "width": 0
+  },
+  {
+    "codePoint": 917788,
+    "width": 0
+  },
+  {
+    "codePoint": 917789,
+    "width": 0
+  },
+  {
+    "codePoint": 917790,
+    "width": 0
+  },
+  {
+    "codePoint": 917791,
+    "width": 0
+  },
+  {
+    "codePoint": 917792,
+    "width": 0
+  },
+  {
+    "codePoint": 917793,
+    "width": 0
+  },
+  {
+    "codePoint": 917794,
+    "width": 0
+  },
+  {
+    "codePoint": 917795,
+    "width": 0
+  },
+  {
+    "codePoint": 917796,
+    "width": 0
+  },
+  {
+    "codePoint": 917797,
+    "width": 0
+  },
+  {
+    "codePoint": 917798,
+    "width": 0
+  },
+  {
+    "codePoint": 917799,
+    "width": 0
+  },
+  {
+    "codePoint": 917800,
+    "width": 0
+  },
+  {
+    "codePoint": 917801,
+    "width": 0
+  },
+  {
+    "codePoint": 917802,
+    "width": 0
+  },
+  {
+    "codePoint": 917803,
+    "width": 0
+  },
+  {
+    "codePoint": 917804,
+    "width": 0
+  },
+  {
+    "codePoint": 917805,
+    "width": 0
+  },
+  {
+    "codePoint": 917806,
+    "width": 0
+  },
+  {
+    "codePoint": 917807,
+    "width": 0
+  },
+  {
+    "codePoint": 917808,
+    "width": 0
+  },
+  {
+    "codePoint": 917809,
+    "width": 0
+  },
+  {
+    "codePoint": 917810,
+    "width": 0
+  },
+  {
+    "codePoint": 917811,
+    "width": 0
+  },
+  {
+    "codePoint": 917812,
+    "width": 0
+  },
+  {
+    "codePoint": 917813,
+    "width": 0
+  },
+  {
+    "codePoint": 917814,
+    "width": 0
+  },
+  {
+    "codePoint": 917815,
+    "width": 0
+  },
+  {
+    "codePoint": 917816,
+    "width": 0
+  },
+  {
+    "codePoint": 917817,
+    "width": 0
+  },
+  {
+    "codePoint": 917818,
+    "width": 0
+  },
+  {
+    "codePoint": 917819,
+    "width": 0
+  },
+  {
+    "codePoint": 917820,
+    "width": 0
+  },
+  {
+    "codePoint": 917821,
+    "width": 0
+  },
+  {
+    "codePoint": 917822,
+    "width": 0
+  },
+  {
+    "codePoint": 917823,
+    "width": 0
+  },
+  {
+    "codePoint": 917824,
+    "width": 0
+  },
+  {
+    "codePoint": 917825,
+    "width": 0
+  },
+  {
+    "codePoint": 917826,
+    "width": 0
+  },
+  {
+    "codePoint": 917827,
+    "width": 0
+  },
+  {
+    "codePoint": 917828,
+    "width": 0
+  },
+  {
+    "codePoint": 917829,
+    "width": 0
+  },
+  {
+    "codePoint": 917830,
+    "width": 0
+  },
+  {
+    "codePoint": 917831,
+    "width": 0
+  },
+  {
+    "codePoint": 917832,
+    "width": 0
+  },
+  {
+    "codePoint": 917833,
+    "width": 0
+  },
+  {
+    "codePoint": 917834,
+    "width": 0
+  },
+  {
+    "codePoint": 917835,
+    "width": 0
+  },
+  {
+    "codePoint": 917836,
+    "width": 0
+  },
+  {
+    "codePoint": 917837,
+    "width": 0
+  },
+  {
+    "codePoint": 917838,
+    "width": 0
+  },
+  {
+    "codePoint": 917839,
+    "width": 0
+  },
+  {
+    "codePoint": 917840,
+    "width": 0
+  },
+  {
+    "codePoint": 917841,
+    "width": 0
+  },
+  {
+    "codePoint": 917842,
+    "width": 0
+  },
+  {
+    "codePoint": 917843,
+    "width": 0
+  },
+  {
+    "codePoint": 917844,
+    "width": 0
+  },
+  {
+    "codePoint": 917845,
+    "width": 0
+  },
+  {
+    "codePoint": 917846,
+    "width": 0
+  },
+  {
+    "codePoint": 917847,
+    "width": 0
+  },
+  {
+    "codePoint": 917848,
+    "width": 0
+  },
+  {
+    "codePoint": 917849,
+    "width": 0
+  },
+  {
+    "codePoint": 917850,
+    "width": 0
+  },
+  {
+    "codePoint": 917851,
+    "width": 0
+  },
+  {
+    "codePoint": 917852,
+    "width": 0
+  },
+  {
+    "codePoint": 917853,
+    "width": 0
+  },
+  {
+    "codePoint": 917854,
+    "width": 0
+  },
+  {
+    "codePoint": 917855,
+    "width": 0
+  },
+  {
+    "codePoint": 917856,
+    "width": 0
+  },
+  {
+    "codePoint": 917857,
+    "width": 0
+  },
+  {
+    "codePoint": 917858,
+    "width": 0
+  },
+  {
+    "codePoint": 917859,
+    "width": 0
+  },
+  {
+    "codePoint": 917860,
+    "width": 0
+  },
+  {
+    "codePoint": 917861,
+    "width": 0
+  },
+  {
+    "codePoint": 917862,
+    "width": 0
+  },
+  {
+    "codePoint": 917863,
+    "width": 0
+  },
+  {
+    "codePoint": 917864,
+    "width": 0
+  },
+  {
+    "codePoint": 917865,
+    "width": 0
+  },
+  {
+    "codePoint": 917866,
+    "width": 0
+  },
+  {
+    "codePoint": 917867,
+    "width": 0
+  },
+  {
+    "codePoint": 917868,
+    "width": 0
+  },
+  {
+    "codePoint": 917869,
+    "width": 0
+  },
+  {
+    "codePoint": 917870,
+    "width": 0
+  },
+  {
+    "codePoint": 917871,
+    "width": 0
+  },
+  {
+    "codePoint": 917872,
+    "width": 0
+  },
+  {
+    "codePoint": 917873,
+    "width": 0
+  },
+  {
+    "codePoint": 917874,
+    "width": 0
+  },
+  {
+    "codePoint": 917875,
+    "width": 0
+  },
+  {
+    "codePoint": 917876,
+    "width": 0
+  },
+  {
+    "codePoint": 917877,
+    "width": 0
+  },
+  {
+    "codePoint": 917878,
+    "width": 0
+  },
+  {
+    "codePoint": 917879,
+    "width": 0
+  },
+  {
+    "codePoint": 917880,
+    "width": 0
+  },
+  {
+    "codePoint": 917881,
+    "width": 0
+  },
+  {
+    "codePoint": 917882,
+    "width": 0
+  },
+  {
+    "codePoint": 917883,
+    "width": 0
+  },
+  {
+    "codePoint": 917884,
+    "width": 0
+  },
+  {
+    "codePoint": 917885,
+    "width": 0
+  },
+  {
+    "codePoint": 917886,
+    "width": 0
+  },
+  {
+    "codePoint": 917887,
+    "width": 0
+  },
+  {
+    "codePoint": 917888,
+    "width": 0
+  },
+  {
+    "codePoint": 917889,
+    "width": 0
+  },
+  {
+    "codePoint": 917890,
+    "width": 0
+  },
+  {
+    "codePoint": 917891,
+    "width": 0
+  },
+  {
+    "codePoint": 917892,
+    "width": 0
+  },
+  {
+    "codePoint": 917893,
+    "width": 0
+  },
+  {
+    "codePoint": 917894,
+    "width": 0
+  },
+  {
+    "codePoint": 917895,
+    "width": 0
+  },
+  {
+    "codePoint": 917896,
+    "width": 0
+  },
+  {
+    "codePoint": 917897,
+    "width": 0
+  },
+  {
+    "codePoint": 917898,
+    "width": 0
+  },
+  {
+    "codePoint": 917899,
+    "width": 0
+  },
+  {
+    "codePoint": 917900,
+    "width": 0
+  },
+  {
+    "codePoint": 917901,
+    "width": 0
+  },
+  {
+    "codePoint": 917902,
+    "width": 0
+  },
+  {
+    "codePoint": 917903,
+    "width": 0
+  },
+  {
+    "codePoint": 917904,
+    "width": 0
+  },
+  {
+    "codePoint": 917905,
+    "width": 0
+  },
+  {
+    "codePoint": 917906,
+    "width": 0
+  },
+  {
+    "codePoint": 917907,
+    "width": 0
+  },
+  {
+    "codePoint": 917908,
+    "width": 0
+  },
+  {
+    "codePoint": 917909,
+    "width": 0
+  },
+  {
+    "codePoint": 917910,
+    "width": 0
+  },
+  {
+    "codePoint": 917911,
+    "width": 0
+  },
+  {
+    "codePoint": 917912,
+    "width": 0
+  },
+  {
+    "codePoint": 917913,
+    "width": 0
+  },
+  {
+    "codePoint": 917914,
+    "width": 0
+  },
+  {
+    "codePoint": 917915,
+    "width": 0
+  },
+  {
+    "codePoint": 917916,
+    "width": 0
+  },
+  {
+    "codePoint": 917917,
+    "width": 0
+  },
+  {
+    "codePoint": 917918,
+    "width": 0
+  },
+  {
+    "codePoint": 917919,
+    "width": 0
+  },
+  {
+    "codePoint": 917920,
+    "width": 0
+  },
+  {
+    "codePoint": 917921,
+    "width": 0
+  },
+  {
+    "codePoint": 917922,
+    "width": 0
+  },
+  {
+    "codePoint": 917923,
+    "width": 0
+  },
+  {
+    "codePoint": 917924,
+    "width": 0
+  },
+  {
+    "codePoint": 917925,
+    "width": 0
+  },
+  {
+    "codePoint": 917926,
+    "width": 0
+  },
+  {
+    "codePoint": 917927,
+    "width": 0
+  },
+  {
+    "codePoint": 917928,
+    "width": 0
+  },
+  {
+    "codePoint": 917929,
+    "width": 0
+  },
+  {
+    "codePoint": 917930,
+    "width": 0
+  },
+  {
+    "codePoint": 917931,
+    "width": 0
+  },
+  {
+    "codePoint": 917932,
+    "width": 0
+  },
+  {
+    "codePoint": 917933,
+    "width": 0
+  },
+  {
+    "codePoint": 917934,
+    "width": 0
+  },
+  {
+    "codePoint": 917935,
+    "width": 0
+  },
+  {
+    "codePoint": 917936,
+    "width": 0
+  },
+  {
+    "codePoint": 917937,
+    "width": 0
+  },
+  {
+    "codePoint": 917938,
+    "width": 0
+  },
+  {
+    "codePoint": 917939,
+    "width": 0
+  },
+  {
+    "codePoint": 917940,
+    "width": 0
+  },
+  {
+    "codePoint": 917941,
+    "width": 0
+  },
+  {
+    "codePoint": 917942,
+    "width": 0
+  },
+  {
+    "codePoint": 917943,
+    "width": 0
+  },
+  {
+    "codePoint": 917944,
+    "width": 0
+  },
+  {
+    "codePoint": 917945,
+    "width": 0
+  },
+  {
+    "codePoint": 917946,
+    "width": 0
+  },
+  {
+    "codePoint": 917947,
+    "width": 0
+  },
+  {
+    "codePoint": 917948,
+    "width": 0
+  },
+  {
+    "codePoint": 917949,
+    "width": 0
+  },
+  {
+    "codePoint": 917950,
+    "width": 0
+  },
+  {
+    "codePoint": 917951,
+    "width": 0
+  },
+  {
+    "codePoint": 917952,
+    "width": 0
+  },
+  {
+    "codePoint": 917953,
+    "width": 0
+  },
+  {
+    "codePoint": 917954,
+    "width": 0
+  },
+  {
+    "codePoint": 917955,
+    "width": 0
+  },
+  {
+    "codePoint": 917956,
+    "width": 0
+  },
+  {
+    "codePoint": 917957,
+    "width": 0
+  },
+  {
+    "codePoint": 917958,
+    "width": 0
+  },
+  {
+    "codePoint": 917959,
+    "width": 0
+  },
+  {
+    "codePoint": 917960,
+    "width": 0
+  },
+  {
+    "codePoint": 917961,
+    "width": 0
+  },
+  {
+    "codePoint": 917962,
+    "width": 0
+  },
+  {
+    "codePoint": 917963,
+    "width": 0
+  },
+  {
+    "codePoint": 917964,
+    "width": 0
+  },
+  {
+    "codePoint": 917965,
+    "width": 0
+  },
+  {
+    "codePoint": 917966,
+    "width": 0
+  },
+  {
+    "codePoint": 917967,
+    "width": 0
+  },
+  {
+    "codePoint": 917968,
+    "width": 0
+  },
+  {
+    "codePoint": 917969,
+    "width": 0
+  },
+  {
+    "codePoint": 917970,
+    "width": 0
+  },
+  {
+    "codePoint": 917971,
+    "width": 0
+  },
+  {
+    "codePoint": 917972,
+    "width": 0
+  },
+  {
+    "codePoint": 917973,
+    "width": 0
+  },
+  {
+    "codePoint": 917974,
+    "width": 0
+  },
+  {
+    "codePoint": 917975,
+    "width": 0
+  },
+  {
+    "codePoint": 917976,
+    "width": 0
+  },
+  {
+    "codePoint": 917977,
+    "width": 0
+  },
+  {
+    "codePoint": 917978,
+    "width": 0
+  },
+  {
+    "codePoint": 917979,
+    "width": 0
+  },
+  {
+    "codePoint": 917980,
+    "width": 0
+  },
+  {
+    "codePoint": 917981,
+    "width": 0
+  },
+  {
+    "codePoint": 917982,
+    "width": 0
+  },
+  {
+    "codePoint": 917983,
+    "width": 0
+  },
+  {
+    "codePoint": 917984,
+    "width": 0
+  },
+  {
+    "codePoint": 917985,
+    "width": 0
+  },
+  {
+    "codePoint": 917986,
+    "width": 0
+  },
+  {
+    "codePoint": 917987,
+    "width": 0
+  },
+  {
+    "codePoint": 917988,
+    "width": 0
+  },
+  {
+    "codePoint": 917989,
+    "width": 0
+  },
+  {
+    "codePoint": 917990,
+    "width": 0
+  },
+  {
+    "codePoint": 917991,
+    "width": 0
+  },
+  {
+    "codePoint": 917992,
+    "width": 0
+  },
+  {
+    "codePoint": 917993,
+    "width": 0
+  },
+  {
+    "codePoint": 917994,
+    "width": 0
+  },
+  {
+    "codePoint": 917995,
+    "width": 0
+  },
+  {
+    "codePoint": 917996,
+    "width": 0
+  },
+  {
+    "codePoint": 917997,
+    "width": 0
+  },
+  {
+    "codePoint": 917998,
+    "width": 0
+  },
+  {
+    "codePoint": 917999,
+    "width": 0
+  }
+]
