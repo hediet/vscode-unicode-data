@@ -3,6 +3,7 @@ import * as scriptData from "ucd-full/Scripts.json";
 import * as blockData from "ucd-full/Blocks.json";
 import { exec, execSync } from "child_process";
 import { cached } from "./cache";
+import { resolve } from "path";
 
 function hexToNum(hex: string): number {
     return parseInt(hex, 16);
@@ -111,12 +112,11 @@ function getExceptionsFromVsCodeLoc(): Record< /* language code */ string, numbe
         const language = match[1];
 
 
-        const script = "C:\\dev\\hediet\\rust-unicode-histogram\\target\\debug\\rust-unicode-histogram.exe";
+        const script = resolve(__dirname, "./rust-unicode-histogram/target/debug/rust-unicode-histogram");
         const output = execSync(`${script} **/*.json`, {
             cwd: folder + "\\" + subFolder,
             encoding: "utf8",
         });
-
         const histogram = JSON.parse(output) as { code_point_counts: Record<string, number> };
 
         const exceptions = Object.keys(histogram.code_point_counts).map((e) => e.codePointAt(0)!);
