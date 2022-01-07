@@ -76,6 +76,24 @@ function getConfusablesData(): Map<number, number> {
 
         confusables.set(from, to);
 	}
+
+    function expectDefined<T>(value: T | undefined): T {
+        if (value === undefined) {
+            throw new Error('Undefined value');
+        }
+        return value;
+    }
+
+    const overrides = JSON.parse(readFileSync("./data/confusable-overrides.json", { encoding: "utf8" })) as Record<string, string | null>;
+    for (const [confusable, representant] of Object.entries(overrides)) {
+        const key = expectDefined(confusable.codePointAt(0));
+        if (representant === null) {
+            confusables.delete(key);
+        } else {
+            confusables.set(key, expectDefined(representant.codePointAt(0)));
+        }
+    }
+
 	return confusables;
 }
 
