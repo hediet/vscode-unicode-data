@@ -100,7 +100,19 @@ function getConfusablesData(): Map<number, number> {
 const confusableData = getConfusablesData();
 
 function getConfusableRepresentant(c: number): number {
-    return confusableData.get(c) ?? c;
+    let chars = new Array<string>();
+    let i = 0;
+    while (i < 10) {
+        i++;
+        chars.push(String.fromCodePoint(c) + ' ' + c);
+        let x = confusableData.get(c) ?? c;
+        if (x === c) {
+            return c;
+        }
+        c = x;
+    }
+
+    throw new Error('Error: ' + chars.join(' -> '));
 }
 
 function getAllConfusables() {
