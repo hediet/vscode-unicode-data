@@ -3,7 +3,7 @@ import * as scriptData from "ucd-full/Scripts.json";
 import * as blockData from "ucd-full/Blocks.json";
 import { exec, execSync } from "child_process";
 import { cached } from "./cache";
-import { resolve } from "path";
+import { resolve, join as joinPath } from "path";
 
 function hexToNum(hex: string): number {
     return parseInt(hex, 16);
@@ -131,7 +131,7 @@ function getExceptionsFromVsCodeLocCached() {
 function getExceptionsFromVsCodeLoc(): Record< /* language code */ string, number[]> {
     const result: Record<string, number[]> = {};
 
-    const folder = "C:\\dev\\microsoft\\vscode-loc\\i18n";
+    const folder = joinPath("..", "vscode-loc", "i18n");
     const subFolders = readdirSync(folder);
     for (const subFolder of subFolders) {
         
@@ -144,8 +144,9 @@ function getExceptionsFromVsCodeLoc(): Record< /* language code */ string, numbe
 
         const script = resolve(__dirname, "./rust-unicode-histogram/target/debug/rust-unicode-histogram");
         const output = execSync(`${script} **/*.json`, {
-            cwd: folder + "\\" + subFolder,
+            cwd: joinPath(folder, subFolder),
             encoding: "utf8",
+            shell: process.platform === "win32" ? process.env.ComSpec : "zsh",
         });
         const histogram = JSON.parse(output) as { code_point_counts: Record<string, number> };
 

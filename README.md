@@ -6,10 +6,10 @@ See `InvisiblieCharacters` and `AmbiguousCharacters` in [strings.ts](https://git
 
 ## Usage
 
-Currently only Windows is supported
+When you are not on Windows, you need to have `zsh` installed in order to be able to correctly expand the `**` placeholder.
 
 
-Check out [vscode-loc](https://github.com/microsoft/vscode-loc) into `C:\\dev\\microsoft\\vscode-loc`.
+Check out [vscode-loc](https://github.com/microsoft/vscode-loc) into the sibling directory `../vscode-loc`.
 
 Remove `.cache` if it is older than vscode-loc.
 
