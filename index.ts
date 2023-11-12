@@ -172,7 +172,7 @@ function ambiguousCharacters(): Map<number, number> {
 	const result = new Map<number, number>();
 
 	const basicASCIIConfusableRepresentants = new Map<number, number>(
-		[...basicASCIICharacters].map((c) => [getConfusableRepresentant(c), c])
+		[...basicASCIICharacters].map((c) => [c, getConfusableRepresentant(c)])
 	);
 
 	for (const confusable of getAllConfusables()) {
