@@ -171,19 +171,12 @@ const basicASCIICharacters = getBasicASCIICharacters();
 function ambiguousCharacters(): Map<number, number> {
 	const result = new Map<number, number>();
 
-	const basicASCIIConfusableRepresentants = new Map<number, number>(
-		[...basicASCIICharacters].map((c) => [c, getConfusableRepresentant(c)])
-	);
-
 	for (const confusable of getAllConfusables()) {
         const representant = getConfusableRepresentant(confusable);
-		if (
-			basicASCIIConfusableRepresentants.has(representant) &&
-			!basicASCIICharacters.has(confusable)
-		) {
+		if (basicASCIICharacters.has(representant) && !basicASCIICharacters.has(confusable)) {
 			result.set(
 				confusable,
-				basicASCIIConfusableRepresentants.get(representant)!
+				representant,
 			);
 		}
 	}
