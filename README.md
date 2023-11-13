@@ -2,7 +2,7 @@
 
 This tool collects invisible and ambiguous unicode characters to be highlighted in VSCode.
 
-See `InvisiblieCharacters` and `AmbiguousCharacters` in [strings.ts](https://github.com/microsoft/vscode/blob/main/src/vs/base/common/strings.ts).
+See `InvisibleCharacters` and `AmbiguousCharacters` in [strings.ts](https://github.com/microsoft/vscode/blob/main/src/vs/base/common/strings.ts).
 
 ## Usage
 
