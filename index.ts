@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync, writeFileSync } from "fs";
 import * as scriptData from "ucd-full/Scripts.json";
 import * as blockData from "ucd-full/Blocks.json";
-import { exec, execSync } from "child_process";
+import { spawnSync } from "child_process";
 import { cached } from "./cache";
 import { resolve } from "path";
 
@@ -131,7 +131,7 @@ function getExceptionsFromVsCodeLocCached() {
 function getExceptionsFromVsCodeLoc(): Record< /* language code */ string, number[]> {
     const result: Record<string, number[]> = {};
 
-    const folder = "C:\\dev\\microsoft\\vscode-loc\\i18n";
+    const folder = resolve(__dirname, '..', 'vscode-loc', 'i18n');
     const subFolders = readdirSync(folder);
     for (const subFolder of subFolders) {
         
@@ -143,11 +143,11 @@ function getExceptionsFromVsCodeLoc(): Record< /* language code */ string, numbe
 
 
         const script = resolve(__dirname, "./rust-unicode-histogram/target/debug/rust-unicode-histogram");
-        const output = execSync(`${script} **/*.json`, {
-            cwd: folder + "\\" + subFolder,
-            encoding: "utf8",
+        const {stdout} = spawnSync(script, [`**/*.json`], {
+            cwd: resolve(folder, subFolder),
+            encoding: "utf8"
         });
-        const histogram = JSON.parse(output) as { code_point_counts: Record<string, number> };
+        const histogram = JSON.parse(stdout) as { code_point_counts: Record<string, number> };
 
         const exceptions = Object.keys(histogram.code_point_counts).map((e) => e.codePointAt(0)!);
         result[language] = exceptions;
